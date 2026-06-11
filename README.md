@@ -47,6 +47,6 @@ A multi-page website designed for an entertainment and gaming center. The projec
 
 ## Author
 
-Shakira Seitnazarova
+Shakira Seitnazarova for coursmate
 
 GitHub: https://github.com/shaajjjk
